@@ -1,4 +1,25 @@
 *
 
+!.github/
+!.github/**
 !.gitignore
+
+!AUTHORS
 !README.md
+!GOVERNANCE.md
+!CONTRIBUTING.md
+!MAINTAINERS.md
+
+!LICENSE
+!VERSION
+
+!CMakeLists.txt
+
+!docs/
+!docs/**
+
+!cmake/
+!cmake/**
+
+!q1v/
+!q1v/**
