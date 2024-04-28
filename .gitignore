@@ -1,16 +1,19 @@
 *
 
+!.github/
+!.github/**
 !.gitignore
+
 !README.md
+!GOVERNANCE.md
+
+!LICENSE
+!VERSION
+
+!CMakeLists.txt
 
 !docs/
 !docs/**
-
-!.github/
-!.github/**
-
-!GOVERNANCE.md
-!LICENSE
 
 !cmake/
 !cmake/**
