@@ -4,8 +4,10 @@
 !.github/**
 !.gitignore
 
+!AUTHORS
 !README.md
 !GOVERNANCE.md
+!CONTRIBUTING.md
 
 !LICENSE
 !VERSION
