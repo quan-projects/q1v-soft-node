@@ -17,3 +17,6 @@
 
 !cmake/
 !cmake/**
+
+!q1v/
+!q1v/**
