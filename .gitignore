@@ -5,3 +5,9 @@
 
 !docs/
 !docs/**
+
+!.github/
+!.github/**
+
+!GOVERNANCE.md
+!LICENSE
