@@ -11,3 +11,6 @@
 
 !GOVERNANCE.md
 !LICENSE
+
+!cmake/
+!cmake/**
